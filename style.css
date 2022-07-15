@@ -21,12 +21,7 @@ body{
 main{
     position: relative;
     height: 100vh;
-    
-
-
-
 }
-
 
 section#telefone{
     position: absolute;
@@ -55,8 +50,6 @@ section#redessociais img{
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.444);
     box-sizing: border-box; /*Serve para agrupar o circulo do 
     hover abaixo com a imagem*/
-    
-
 
 }
 section#redessociais img:hover{
@@ -64,12 +57,8 @@ section#redessociais img:hover{
     transform: translate(-3px -3px); /*mexer a imagem quando passa o mouse*/
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.43);
     transition: transform .3s border 1s; /*tempo de transição*/
-
-    
+   
 }
-
-
-
 
 section#redessociais{
     text-align: right;
